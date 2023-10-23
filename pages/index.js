@@ -1,6 +1,6 @@
 import HeadTag from "../components/common/HeadTag";
 import LandingPageNewHome from "../components/desktop/home/LandingPageNewHome";
-// import LandingPageHomeMobile from "../components/mobile/LandingPageHomeMobile";
+import LandingPageHomeMobile from "../components/mobile/LandingPageHomeMobile";
 // import getWindowWidth, { xsWindowWidth } from "../components/getWindowWidth";
 
 export default function Home() {
@@ -14,7 +14,7 @@ export default function Home() {
       </div>
 
       <div className="d-block d-md-none">
-        {/* <LandingPageHomeMobile /> */}
+        <LandingPageHomeMobile />
       </div>
 
       {/* here on view page source content doesn't diplayed */}

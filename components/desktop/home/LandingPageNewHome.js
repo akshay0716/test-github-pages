@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
-// import LandingPageFooter from "../LandingPageFooter";
-// import LandingPageNavbar from "../LandingPageNavbar";
+import LandingPageFooter from "../LandingPageFooter";
+import LandingPageNavbar from "../LandingPageNavbar";
 import LandingPageNewHomeFoldFive from "./LandingPageNewHomeFoldFive";
 import LandingPageNewHomeFoldFour from "./LandingPageNewHomeFoldFour";
 import LandingPageNewHomeFoldOne from "./LandingPageNewHomeFoldOne";
@@ -17,7 +17,7 @@ export default function LandingPageNewHome() {
   return (
     <>
       <div className="background-section">
-        {/* <LandingPageNavbar activeLink="home" /> */}
+        <LandingPageNavbar activeLink="home" />
         <ScrollTop />
         {/*============Content============*/}
         <LandingPageNewHomeFoldOne />
@@ -27,7 +27,7 @@ export default function LandingPageNewHome() {
         <LandingPageNewHomeFoldFive />
         <LandingPageNewHomePricing />
       </div>
-      {/* <LandingPageFooter /> */}
+      <LandingPageFooter />
     </>
   );
 }
