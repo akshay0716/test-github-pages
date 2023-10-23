@@ -2,7 +2,7 @@ import React from "react";
 import Link from "next/link";
 
 // const logo = "/img/desktop/new/new-dominate-logo.svg";
-const logo = "/img/desktop-dark-theme/logo/dominate-logo.png";
+const logo = "./img/desktop-dark-theme/logo/dominate-logo.png";
 
 const LandingPageNavbar = ({ activeLink }) => {
   const onClickLoginSignupHandler = () => {
