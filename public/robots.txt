@@ -3,8 +3,8 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://www.dominate.ai/
+Host: undefined/
 
 # Sitemaps
-Sitemap: https://www.dominate.ai/sitemap.xml
-Sitemap: https://www.dominate.ai/server-sitemap.xml
+Sitemap: undefined/sitemap.xml
+Sitemap: undefined/server-sitemap.xml
