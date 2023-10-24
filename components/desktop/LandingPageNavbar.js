@@ -29,7 +29,7 @@ const LandingPageNavbar = ({ activeLink }) => {
     <nav className="navbar-section row justify-content-between align-items-center">
       <Link href="/">
         <a>
-          <img src={logo} alt="dominate logo" className="navbar-logo" />
+          <img onClick={() => window.location.href="https://akshay0716.github.io/test-github-pages"} src={logo} alt="dominate logo" className="navbar-logo" />
         </a>
       </Link>
       <ul className="row justify-content-between align-items-center">
@@ -37,6 +37,7 @@ const LandingPageNavbar = ({ activeLink }) => {
           <Link href="/">
             <a>
               <span
+                onClick={() => window.location.href="https://akshay0716.github.io/test-github-pages"}
                 className={
                   activeLink === "home"
                     ? "nav-link nav-link--active"
