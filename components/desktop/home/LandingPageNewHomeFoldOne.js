@@ -23,14 +23,14 @@ import { Fragment } from "react";
 // const img6 = "/img/desktop-dark-theme/home/company-logo/notion.svg";
 // const img7 = "/img/desktop-dark-theme/home/company-logo/figma.png";
 // const img8 = "/img/desktop-dark-theme/home/company-logo/airtable.png";
-const img1 = "/img/desktop-dark-theme/home/company-logo/thoughtwork.svg";
-const img2 = "/img/desktop-dark-theme/home/company-logo/ma.svg";
-const img3 = "/img/desktop-dark-theme/home/company-logo/randstad.svg";
-const img4 = "/img/desktop-dark-theme/home/company-logo/avanade.svg";
-const img5 = "/img/desktop-dark-theme/home/company-logo/sapient.svg";
-const img6 = "/img/desktop-dark-theme/home/company-logo/dynatrace.svg";
-const img7 = "/img/desktop-dark-theme/home/company-logo/mindtree.svg";
-const img8 = "/img/desktop-dark-theme/home/company-logo/terralogic.svg";
+const img1 = "./img/desktop-dark-theme/home/company-logo/thoughtwork.svg";
+const img2 = "./img/desktop-dark-theme/home/company-logo/ma.svg";
+const img3 = "./img/desktop-dark-theme/home/company-logo/randstad.svg";
+const img4 = "./img/desktop-dark-theme/home/company-logo/avanade.svg";
+const img5 = "./img/desktop-dark-theme/home/company-logo/sapient.svg";
+const img6 = "./img/desktop-dark-theme/home/company-logo/dynatrace.svg";
+const img7 = "./img/desktop-dark-theme/home/company-logo/mindtree.svg";
+const img8 = "./img/desktop-dark-theme/home/company-logo/terralogic.svg";
 
 const logoArray = [
   {
@@ -144,7 +144,7 @@ export default function LandingPageNewHomeFoldOne() {
           <img
             //src={"/img/desktop/home/new-home-fold-one.png"}
             // src={"/img/desktop/home/home-fold-one-img-new.png"}
-            src={"/img/desktop-dark-theme/home/home-fold-one-new.png"}
+            src={"./img/desktop-dark-theme/home/home-fold-one-new.png"}
             alt="manage hight ticket"
             className="new-home-fold-one-img"
           />

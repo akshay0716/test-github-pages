@@ -8,7 +8,7 @@ export default function ComparisonPageBackButton() {
         <a>
           <img
             // src={"/img/mobile/get/arrow.svg"}
-            src={"/img/mobile-dark-theme/icon/left-arrow.png"}
+            src={"./img/mobile-dark-theme/icon/left-arrow.png"}
             alt="back"
             className="back-img back-img--comparison"
           />

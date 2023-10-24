@@ -34,19 +34,19 @@ export class LandingPageEBook extends Component {
         <PageTitleFontBig text={"ebooks"} extraClass={"ebook-page-title"} />
         <div className="row justify-content-center align-items-center mx-0 ebook-content-section">
           {this.renderEbook1(
-            "/img/desktop-dark-theme/ebook/ebook-1.png",
+            "./img/desktop-dark-theme/ebook/ebook-1.png",
             "Become a Sales-minded strategist",
             "Trisha Gupta",
             "Learn the best ways by industry specialists to create and implment rewarding and lasting strategies"
           )}
           {this.renderEbook1(
-            "/img/desktop-dark-theme/ebook/ebook-2.png",
+            "./img/desktop-dark-theme/ebook/ebook-2.png",
             "Putting together the A TEAM",
             "Tanishq Tripathi",
             "Building a successful team is about more than finding a group of people with the right mix of professional skills."
           )}
           {this.renderEbook1(
-            "/img/desktop-dark-theme/ebook/ebook-3.png",
+            "./img/desktop-dark-theme/ebook/ebook-3.png",
             "The fine art of thinking outside the box",
             "Sanjar Nirmani",
             "How to stand apart from the over saturated market? Finding something to offer which has nothing been done before is quite tricky."

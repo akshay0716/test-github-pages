@@ -179,7 +179,7 @@ const LandingPageFooter = () => {
             <a>
               <img
                 // src="/img/desktop/new/new-dominate-logo.svg"
-                src="/img/desktop-dark-theme/logo/dominate-logo.png"
+                src="./img/desktop-dark-theme/logo/dominate-logo.png"
                 alt="dominate logo"
                 className="footer-logo-img"
               />
@@ -321,7 +321,7 @@ const LandingPageFooter = () => {
         <h5 className="devlop-text font-dark-blue">
           <img
             // src={"/img/desktop/new/new-dev-img.svg"}
-            src={"/img/desktop-dark-theme/icons/dev-icon.png"}
+            src={"./img/desktop-dark-theme/icons/dev-icon.png"}
             alt="tool"
             className="dev-img"
           />

@@ -42,7 +42,7 @@ export default function LandingPageMobileFooter() {
       </h2>
       <div className="row justify-content-center align-items-center pt-16">
         <img
-          src={"/img/mobile/home/dev.svg"}
+          src={"./img/mobile/home/dev.svg"}
           alt="dev"
           className="mobile-dev-img"
         />

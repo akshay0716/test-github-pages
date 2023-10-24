@@ -1,20 +1,20 @@
 import React from "react";
 // const img1 = "/img/desktop/home/new-home-sales-center-img.svg";
-const img1 = "/img/desktop-dark-theme/home/home-simplify-sales.png";
-const icon = "/img/desktop-dark-theme/home/home-sales-center-icon.png";
-const img2 = "/img/desktop-dark-theme/home/home-sales-center.png";
+const img1 = "./img/desktop-dark-theme/home/home-simplify-sales.png";
+const icon = "./img/desktop-dark-theme/home/home-sales-center-icon.png";
+const img2 = "./img/desktop-dark-theme/home/home-sales-center.png";
 // const img2 = "/img/desktop/home/new-home-sales-center-main-img.png";
-const img3 = "/img/desktop-dark-theme/home/home-account-base-management.png";
+const img3 = "./img/desktop-dark-theme/home/home-account-base-management.png";
 // const img3 = "/img/desktop/home/new-home-account-card-img.svg";
 // const img4 = "/img/desktop/home/new-home-lead-team-img.png";
-const img4 = "/img/desktop-dark-theme/home/home-deals-pipeline.png";
+const img4 = "./img/desktop-dark-theme/home/home-deals-pipeline.png";
 // const img5 = "/img/desktop/home/new-home-leads-management.png";
-const img5 = "/img/desktop-dark-theme/home/home-extensive-lead-managment.png";
+const img5 = "./img/desktop-dark-theme/home/home-extensive-lead-managment.png";
 // const img6 = "/img/desktop/home/new-home-proposal-img.png";
-const img6 = "/img/desktop-dark-theme/home/home-quotation.png";
+const img6 = "./img/desktop-dark-theme/home/home-quotation.png";
 // const img7 = "/img/desktop/home/new-home-contact-img.png";
-const img7 = "/img/desktop-dark-theme/home/home-contacts.png";
-const img8 = "/img/desktop-dark-theme/home/home-proposal.png";
+const img7 = "./img/desktop-dark-theme/home/home-contacts.png";
+const img8 = "./img/desktop-dark-theme/home/home-proposal.png";
 
 export default function LandingPageNewHomeFoldFour() {
   const renderBlock1 = () => {

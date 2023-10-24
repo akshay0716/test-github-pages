@@ -5,11 +5,11 @@ import LandingPageNavbar from "./LandingPageNavbar";
 import ScrollDown from "./ScrollDown";
 import ScrollTop from "./ScrollTop";
 
-const v1 = "/img/desktop/tutorial/v1.mov";
-const v2 = "/img/desktop/tutorial/v2.mov";
-const v3 = "/img/desktop/tutorial/v3.mov";
-const v4 = "/img/desktop/tutorial/v4.mov";
-const v5 = "/img/desktop/tutorial/v5.mov";
+const v1 = "./img/desktop/tutorial/v1.mov";
+const v2 = "./img/desktop/tutorial/v2.mov";
+const v3 = "./img/desktop/tutorial/v3.mov";
+const v4 = "./img/desktop/tutorial/v4.mov";
+const v5 = "./img/desktop/tutorial/v5.mov";
 
 export class LandingPageTutorials extends Component {
   componentDidMount() {

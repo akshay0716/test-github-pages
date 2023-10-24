@@ -1,11 +1,11 @@
 import React from "react";
 
-const img1 = "/img/mobile-dark-theme/home/sales-center.png";
-const img2 = "/img/mobile-dark-theme/home/dashboard.png";
-const img3 = "/img/mobile-dark-theme/home/member-card.png";
-const icon1 = "/img/mobile-dark-theme/home/icon1.png";
-const icon2 = "/img/mobile-dark-theme/home/icon2.png";
-const icon3 = "/img/mobile-dark-theme/home/icon3.png";
+const img1 = "./img/mobile-dark-theme/home/sales-center.png";
+const img2 = "./img/mobile-dark-theme/home/dashboard.png";
+const img3 = "./img/mobile-dark-theme/home/member-card.png";
+const icon1 = "./img/mobile-dark-theme/home/icon1.png";
+const icon2 = "./img/mobile-dark-theme/home/icon2.png";
+const icon3 = "./img/mobile-dark-theme/home/icon3.png";
 
 export default function LandingPageHomeMobileFeatureNew() {
   const renderCardOne = () => {

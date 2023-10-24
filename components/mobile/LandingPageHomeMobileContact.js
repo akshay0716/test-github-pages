@@ -7,7 +7,7 @@ import Link from "next/link";
 import { validateContactUsForm } from "../../store/validation/validateContactUsForm";
 
 //const logo = "/img/mobile/get/arrow.svg";
-const logo = "/img/mobile-dark-theme/icon/left-arrow.png";
+const logo = "./img/mobile-dark-theme/icon/left-arrow.png";
 
 const dropdownOptions = [
   { value: "Book a demo", label: "Book a demo" },

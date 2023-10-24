@@ -2,14 +2,14 @@ import React from "react";
 
 //img
 // const img1 = "/img/desktop/features/new/features-fold-two-img-five.svg";
-const img1 = "/img/desktop-dark-theme/features/granular-reporting.png";
+const img1 = "./img/desktop-dark-theme/features/granular-reporting.png";
 // const img2 = "/img/desktop/features/new/features-fold-two-img-six.png";
-const img2 = "/img/desktop-dark-theme/features/sequencing.png";
+const img2 = "./img/desktop-dark-theme/features/sequencing.png";
 // const img3 = "/img/desktop/features/new/features-fold-two-img-seven.png";
-const img3 = "/img/desktop-dark-theme/features/proposal-presentation.png";
-const img4 = "/img/desktop-dark-theme/features/member-progress.png";
+const img3 = "./img/desktop-dark-theme/features/proposal-presentation.png";
+const img4 = "./img/desktop-dark-theme/features/member-progress.png";
 // const img5 = "/img/desktop/features/new/features-fold-two-img-nine.png";
-const img5 = "/img/desktop-dark-theme/features/member-log.png";
+const img5 = "./img/desktop-dark-theme/features/member-log.png";
 // const gradient4 = "/img/desktop/features/new/member-icon.svg";
 // const icon1 = "/img/desktop/features/new/yellow-icon-four.svg";
 // const icon2 = "/img/desktop/features/new/yellow-icon-two.svg";

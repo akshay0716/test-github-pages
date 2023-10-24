@@ -1,13 +1,13 @@
 import React from "react";
 // const img2 = "/img/desktop/home/sales-management-img.svg";
-const arrow = "/img/desktop-dark-theme/home/productivity-arrow.png";
-const img2 = "/img/desktop-dark-theme/home/sales-management.png";
+const arrow = "./img/desktop-dark-theme/home/productivity-arrow.png";
+const img2 = "./img/desktop-dark-theme/home/sales-management.png";
 // const img3 = "/img/desktop/home/new-home-compare.svg";
-const img3 = "/img/desktop-dark-theme/home/home-focus-on-collaboration.png";
+const img3 = "./img/desktop-dark-theme/home/home-focus-on-collaboration.png";
 // const img4 = "/img/desktop/home/new-home-productivity.png";
-const img4 = "/img/desktop-dark-theme/home/home-chat-calendar.png";
+const img4 = "./img/desktop-dark-theme/home/home-chat-calendar.png";
 // const img5 = "/img/desktop/home/new-home-task-img.svg";
-const img5 = "/img/desktop-dark-theme/home/home-tasks.png";
+const img5 = "./img/desktop-dark-theme/home/home-tasks.png";
 
 export default function LandingPageNewHomeFoldThree() {
   /*=====================================

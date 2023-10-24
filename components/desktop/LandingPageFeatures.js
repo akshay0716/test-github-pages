@@ -5,11 +5,11 @@ import LandingPageNavbar from "./LandingPageNavbar";
 import ScrollDown from "./ScrollDown";
 import ScrollTop from "./ScrollTop";
 
-const f1 = "/img/desktop/features/f1.png";
-const f2 = "/img/desktop/features/f2.png";
-const f3 = "/img/desktop/features/f3.png";
-const f4 = "/img/desktop/features/f4.png";
-const f5 = "/img/desktop/features/f5.png";
+const f1 = "./img/desktop/features/f1.png";
+const f2 = "./img/desktop/features/f2.png";
+const f3 = "./img/desktop/features/f3.png";
+const f4 = "./img/desktop/features/f4.png";
+const f5 = "./img/desktop/features/f5.png";
 
 export class LandingPageFeatures extends Component {
   componentDidMount() {

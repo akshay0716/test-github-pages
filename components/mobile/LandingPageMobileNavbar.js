@@ -12,7 +12,7 @@ import "react-accessible-accordion/dist/fancy-example.css";
 import Link from "next/link";
 
 // const logo = "/img/mobile/navbar/logo.svg";
-const logo = "/img/mobile-dark-theme/logo/dominate-logo.png";
+const logo = "./img/mobile-dark-theme/logo/dominate-logo.png";
 
 export class LandingPageMobileNavbar extends Component {
   render() {

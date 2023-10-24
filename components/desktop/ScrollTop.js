@@ -13,7 +13,7 @@ function ScrollTop() {
           <div className="arrow-button">
             <img
               // src={"/img/desktop/arrow_up.svg"}
-              src={"/img/desktop-dark-theme/icons/scroll-arrow.png"}
+              src={"./img/desktop-dark-theme/icons/scroll-arrow.png"}
               alt="arrow"
               className="dominate-arrow-button"
             />

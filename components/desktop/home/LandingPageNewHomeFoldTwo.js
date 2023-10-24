@@ -1,12 +1,12 @@
 import React from "react";
-const img1 = "/img/desktop/home/granular-reporting-img.svg";
-const img2 = "/img/desktop-dark-theme/home/home-cmd.png";
-const icon = "/img/desktop-dark-theme/home/home-cmd-icon.png";
+const img1 = "./img/desktop/home/granular-reporting-img.svg";
+const img2 = "./img/desktop-dark-theme/home/home-cmd.png";
+const icon = "./img/desktop-dark-theme/home/home-cmd-icon.png";
 // const img2 = "/img/desktop/home/new-home-command-center-img1.svg";
 // const img3 = "/img/desktop/home/new-home-command-center-img2.svg";
-const img3 = "/img/desktop-dark-theme/home/home-account-based.png";
-const img4 = "/img/desktop-dark-theme/home/home-cmd-quato.png";
-const img5 = "/img/desktop-dark-theme/home/people.png";
+const img3 = "./img/desktop-dark-theme/home/home-account-based.png";
+const img4 = "./img/desktop-dark-theme/home/home-cmd-quato.png";
+const img5 = "./img/desktop-dark-theme/home/people.png";
 
 export default function LandingPageNewHomeFoldTwo() {
   /*=====================================
@@ -86,7 +86,7 @@ export default function LandingPageNewHomeFoldTwo() {
       <div className="row mx-0 tools-that-works-main-div align-items-center flex-nowrap">
         <div className="col-5 p-0">
           <img
-            src={"/img/desktop/home/new-home-fold-two.svg"}
+            src={"./img/desktop/home/new-home-fold-two.svg"}
             className="new-home-fold-two-img"
             alt="A tool that works for you. Not against you."
           />

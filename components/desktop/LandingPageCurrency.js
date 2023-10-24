@@ -13,12 +13,12 @@ import Modal from "react-responsive-modal";
 // const img4 = "/img/desktop/price/img4.png";
 // const img5 = "/img/desktop/price/img5.png";
 // const img6 = "/img/desktop/price/img6.svg";
-const img1 = "/img/desktop-dark-theme/price/img1.png";
-const img2 = "/img/desktop-dark-theme/price/img2.png";
-const img3 = "/img/desktop-dark-theme/price/img3.png";
-const img4 = "/img/desktop-dark-theme/price/img4.png";
-const img5 = "/img/desktop-dark-theme/price/img5.png";
-const img6 = "/img/desktop-dark-theme/price/img6.png";
+const img1 = "./img/desktop-dark-theme/price/img1.png";
+const img2 = "./img/desktop-dark-theme/price/img2.png";
+const img3 = "./img/desktop-dark-theme/price/img3.png";
+const img4 = "./img/desktop-dark-theme/price/img4.png";
+const img5 = "./img/desktop-dark-theme/price/img5.png";
+const img6 = "./img/desktop-dark-theme/price/img6.png";
 
 const price_array = [
   {

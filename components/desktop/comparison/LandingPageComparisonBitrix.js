@@ -8,9 +8,9 @@ import ScrollTop from "../ScrollTop";
 // const whiteCheck = "/img/desktop/comparison/white-check.svg";
 // const minuIcon = "/img/desktop/comparison/minu-icon.svg";
 
-const blueCheck = "/img/desktop-dark-theme/icons/check-icon.png";
-const whiteCheck = "/img/desktop-dark-theme/icons/check-icon.png";
-const minuIcon = "/img/desktop-dark-theme/icons/minus-icon.png";
+const blueCheck = "./img/desktop-dark-theme/icons/check-icon.png";
+const whiteCheck = "./img/desktop-dark-theme/icons/check-icon.png";
+const minuIcon = "./img/desktop-dark-theme/icons/minus-icon.png";
 
 const tableData = [
   { name: "Track Leads" },
@@ -74,7 +74,7 @@ export class LandingPageComparisonBitrix extends Component {
       <div className="row mx-0 align-items-start conclusion-outer-div">
         <div className="col-5 p-0">
           <img
-            src={"/img/mobile-dark-theme/comparison/conclusion.png"}
+            src={"./img/mobile-dark-theme/comparison/conclusion.png"}
             alt="conclusion"
             className="conclusion-img"
           />

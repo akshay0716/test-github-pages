@@ -3,9 +3,9 @@ import LandingPageMobileNavbar from "../LandingPageMobileNavbar";
 import LandingPageMobileFooter from "../LandingPageMobileFooter";
 import ComparisonPageBackButton from "./ComparisonPageBackButton";
 
-const blueCheck = "/img/mobile-dark-theme/icon/check-icon.png";
-const whiteCheck = "/img/mobile-dark-theme/icon/check-icon.png";
-const minuIcon = "/img/mobile-dark-theme/icon/minus-icon.png";
+const blueCheck = "./img/mobile-dark-theme/icon/check-icon.png";
+const whiteCheck = "./img/mobile-dark-theme/icon/check-icon.png";
+const minuIcon = "./img/mobile-dark-theme/icon/minus-icon.png";
 
 // const mobileList1 = [
 //   { name: "Lead Scoring" },
@@ -156,7 +156,7 @@ export class MobileAffinityComparison extends Component {
         <h2 className="mobile-conclusion-text">Conclusion</h2>
         <img
           // src={"/img/mobile/comparison/conclusion.svg"}
-          src={"/img/mobile-dark-theme/comparison/conclusion.png"}
+          src={"./img/mobile-dark-theme/comparison/conclusion.png"}
           alt="mobile conclusion"
           className="mobile-conclusion"
         />

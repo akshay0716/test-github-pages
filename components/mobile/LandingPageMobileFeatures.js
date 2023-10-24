@@ -8,7 +8,7 @@ export class LandingPageMobileFeatures extends Component {
       <div className="features-mobile-block-1-section">
         <figure>
           <img
-            src={"/img/mobile/features/img1.gif"}
+            src={"./img/mobile/features/img1.gif"}
             alt="features"
             className="features-mobile-img1"
           />
@@ -34,7 +34,7 @@ export class LandingPageMobileFeatures extends Component {
       <div className="features-mobile-block-1-section">
         <figure>
           <img
-            src={"/img/mobile/features/img2.gif"}
+            src={"./img/mobile/features/img2.gif"}
             alt="features"
             className="features-mobile-img2"
           />
@@ -61,7 +61,7 @@ export class LandingPageMobileFeatures extends Component {
       <div className="features-mobile-block-1-section">
         <figure>
           <img
-            src={"/img/mobile/features/img3.gif"}
+            src={"./img/mobile/features/img3.gif"}
             alt="features"
             className="features-mobile-img3"
           />
@@ -87,7 +87,7 @@ export class LandingPageMobileFeatures extends Component {
       <div className="features-mobile-block-1-section">
         <figure>
           <img
-            src={"/img/mobile/features/img4.gif"}
+            src={"./img/mobile/features/img4.gif"}
             alt="features"
             className="features-mobile-img4"
           />

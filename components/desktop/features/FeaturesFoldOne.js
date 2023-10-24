@@ -5,12 +5,12 @@ import LandingPageNavbar from "../LandingPageNavbar";
 // const icon1 = "/img/desktop/features/new/icon1.svg";
 // const icon2 = "/img/desktop/features/new/icon2.svg";
 // const icon3 = "/img/desktop/features/new/icon3.svg";
-const icon1 = "/img/desktop-dark-theme/features/icon1.png";
-const icon2 = "/img/desktop-dark-theme/features/icon2.png";
-const icon3 = "/img/desktop-dark-theme/features/icon3.png";
+const icon1 = "./img/desktop-dark-theme/features/icon1.png";
+const icon2 = "./img/desktop-dark-theme/features/icon2.png";
+const icon3 = "./img/desktop-dark-theme/features/icon3.png";
 
 // const img1 = "/img/desktop/features/new/features-fold-one-img.png";
-const img1 = "/img/desktop-dark-theme/features/fold-one.png";
+const img1 = "./img/desktop-dark-theme/features/fold-one.png";
 
 //array
 const featuresArrayOne = [

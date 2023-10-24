@@ -21,15 +21,15 @@ import "pure-react-carousel/dist/react-carousel.es.css";
 // const logo9 = "/img/mobile/home/trust/shiprocket.svg";
 // const logo10 = "/img/mobile/home/trust/trendkite.svg";
 
-const img1 = "/img/mobile-dark-theme/home/trusted.png";
-const img2 = "/img/mobile-dark-theme/home/strava.png";
-const img3 = "/img/mobile-dark-theme/home/notion.png";
-const img4 = "/img/mobile-dark-theme/home/grammarly.png";
-const img5 = "/img/mobile-dark-theme/home/slack.png";
-const img6 = "/img/mobile-dark-theme/home/adobe.png";
-const img7 = "/img/mobile-dark-theme/home/figma.png";
-const img8 = "/img/mobile-dark-theme/home/zapier.png";
-const img9 = "/img/mobile-dark-theme/home/airtable.png";
+const img1 = "./img/mobile-dark-theme/home/trusted.png";
+const img2 = "./img/mobile-dark-theme/home/strava.png";
+const img3 = "./img/mobile-dark-theme/home/notion.png";
+const img4 = "./img/mobile-dark-theme/home/grammarly.png";
+const img5 = "./img/mobile-dark-theme/home/slack.png";
+const img6 = "./img/mobile-dark-theme/home/adobe.png";
+const img7 = "./img/mobile-dark-theme/home/figma.png";
+const img8 = "./img/mobile-dark-theme/home/zapier.png";
+const img9 = "./img/mobile-dark-theme/home/airtable.png";
 
 export class LandingPageHomeMobileTrusted extends Component {
   renderTrusted = () => {

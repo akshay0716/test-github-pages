@@ -4,9 +4,9 @@ import LandingPageMobileNavbar from "../LandingPageMobileNavbar";
 import AuthorNameDetails from "./AuthorNameDetails";
 import isEmpty from "../../../store/validation/is-empty";
 
-const img2 = "/img/mobile/blog/blog-card-2-1.png";
-const img3 = "/img/mobile/blog/blog-card-2-2.png";
-const p3 = "/img/desktop/blog/people-four.svg";
+const img2 = "./img/mobile/blog/blog-card-2-1.png";
+const img3 = "./img/mobile/blog/blog-card-2-2.png";
+const p3 = "./img/desktop/blog/people-four.svg";
 
 //array
 const blogrow2 = [

@@ -2,13 +2,13 @@ import React from "react";
 
 //img
 // const img1 = "/img/desktop/features/new/features-fold-two-img-one.png";
-const img1 = "/img/desktop-dark-theme/features/sales-center.png";
+const img1 = "./img/desktop-dark-theme/features/sales-center.png";
 // const img2 = "/img/desktop/features/new/features-fold-two-img-two.png";
-const img2 = "/img/desktop-dark-theme/features/smart-works-cards.png";
+const img2 = "./img/desktop-dark-theme/features/smart-works-cards.png";
 // const img3 = "/img/desktop/features/new/features-fold-two-img-three.svg";
-const img3 = "/img/desktop-dark-theme/features/front-end-design.png";
+const img3 = "./img/desktop-dark-theme/features/front-end-design.png";
 // const img4 = "/img/desktop/features/new/features-fold-two-img-four.svg";
-const img4 = "/img/desktop-dark-theme/features/account-details.png";
+const img4 = "./img/desktop-dark-theme/features/account-details.png";
 
 // const icon1 = "/img/desktop/features/new/yellow-icon-one.svg";
 // const icon2 = "/img/desktop/features/new/yellow-icon-two.svg";

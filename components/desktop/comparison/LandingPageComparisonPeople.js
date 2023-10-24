@@ -52,7 +52,7 @@ export class LandingPageComparisonPeople extends Component {
           </div>
           <div className="com-section-2">
             <img
-              src={"/img/desktop/comparison/p1.svg"}
+              src={"./img/desktop/comparison/p1.svg"}
               alt="dominate"
               className="pipedriver-img"
             />
@@ -60,7 +60,7 @@ export class LandingPageComparisonPeople extends Component {
           </div>
           <div className="com-section-3">
             <img
-              src={"/img/desktop/comparison/people.svg"}
+              src={"./img/desktop/comparison/people.svg"}
               alt="close.io"
               className=" affinity-img"
             />
@@ -78,7 +78,7 @@ export class LandingPageComparisonPeople extends Component {
       <div className="row mx-0 align-items-start conclusion-outer-div">
         <div className="col-5 p-0">
           <img
-            src={"/img/mobile-dark-theme/comparison/conclusion.png"}
+            src={"./img/mobile-dark-theme/comparison/conclusion.png"}
             alt="conclusion"
             className="conclusion-img"
           />

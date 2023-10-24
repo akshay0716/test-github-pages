@@ -7,9 +7,9 @@ import ComparisonPageBackButton from "./ComparisonPageBackButton";
 // const whiteCheck = "/img/desktop/comparison/white-check.svg";
 // const minuIcon = "/img/desktop/comparison/minu-icon.svg";
 
-const blueCheck = "/img/mobile-dark-theme/icon/check-icon.png";
-const whiteCheck = "/img/mobile-dark-theme/icon/check-icon.png";
-const minuIcon = "/img/mobile-dark-theme/icon/minus-icon.png";
+const blueCheck = "./img/mobile-dark-theme/icon/check-icon.png";
+const whiteCheck = "./img/mobile-dark-theme/icon/check-icon.png";
+const minuIcon = "./img/mobile-dark-theme/icon/minus-icon.png";
 
 const tableData = [
   { name: "Track Leads" },
@@ -162,7 +162,7 @@ export class MobileBitrix24Comparison extends Component {
       <div className="comparison-conclusion-section">
         <h2 className="mobile-conclusion-text">Conclusion</h2>
         <img
-          src={"/img/mobile-dark-theme/comparison/conclusion.png"}
+          src={"./img/mobile-dark-theme/comparison/conclusion.png"}
           // src={"/img/mobile/comparison/conclusion.svg"}
           alt="mobile conclusion"
           className="mobile-conclusion"

@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import LandingPageCurrency from "../LandingPageCurrency";
 import PageTitleFontBig from "../common/PageTitleFontBig";
 
-const img7 = "/img/desktop/home/video-placeholder.png";
+const img7 = "./img/desktop/home/video-placeholder.png";
 
 export default function LandingPageNewHomePricing() {
   /*==============================================================

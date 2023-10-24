@@ -286,13 +286,13 @@ export default function BlogMain({ blogs }) {
         </h1>
         {/*<p>Latest news </p>*/}
         <img
-          src={"/img/desktop/blog/latest-img.svg"}
+          src={"./img/desktop/blog/latest-img.svg"}
           alt="latest blog"
           className="latest-blog-img"
         />
 
         <div className="blog-3d-circle-img-block">
-          <img src="/img/desktop/blog/blog-3d-circle.png" alt="" />
+          <img src="./img/desktop/blog/blog-3d-circle.png" alt="" />
         </div>
 
         <div className="new-blog-newslatter-serach-div new-blog-newslatter-serach-div--search">

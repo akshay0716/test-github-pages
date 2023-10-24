@@ -3,8 +3,8 @@ import ReactCSSTransitionGroup from "react-addons-css-transition-group";
 import Link from "next/link";
 
 /*-- img --*/
-const img1 = "/img/mobile-dark-theme/home/home-fold-one.png";
-const img2 = "/img/mobile-dark-theme/home/home-laptop-img.png";
+const img1 = "./img/mobile-dark-theme/home/home-fold-one.png";
+const img2 = "./img/mobile-dark-theme/home/home-laptop-img.png";
 
 // const img1 = "/img/mobile/home/feature/networking.svg";
 // const img2 = "/img/mobile/home/feature/user.svg";

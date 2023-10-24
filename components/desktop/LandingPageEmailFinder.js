@@ -5,9 +5,9 @@ import ScrollDown from "./ScrollDown";
 import ScrollTop from "./ScrollTop";
 import PageTitleFontBig from "./common/PageTitleFontBig";
 
-const imgArr1 = "/img/desktop/email/new-email1.png";
-const imgArr2 = "/img/desktop/email/new-email2.png";
-const imgArr3 = "/img/desktop/email/new-email3.png";
+const imgArr1 = "./img/desktop/email/new-email1.png";
+const imgArr2 = "./img/desktop/email/new-email2.png";
+const imgArr3 = "./img/desktop/email/new-email3.png";
 
 const list = [1, 2, 3, 4, 5, 6, 7, 8, 9, 1, 2, 3, 4, 5, 6];
 const email_Array = [

@@ -12,12 +12,12 @@ import { Fragment } from "react";
 // const img5 = "/img/mobile/home/price/img5.png";
 // const img6 = "/img/mobile/home/price/img6.svg";
 
-const img1 = "/img/mobile-dark-theme/price/img1.png";
-const img2 = "/img/mobile-dark-theme/price/img2.png";
-const img3 = "/img/mobile-dark-theme/price/img3.png";
-const img4 = "/img/mobile-dark-theme/price/img4.png";
-const img5 = "/img/mobile-dark-theme/price/img5.png";
-const img6 = "/img/mobile-dark-theme/price/img6.png";
+const img1 = "./img/mobile-dark-theme/price/img1.png";
+const img2 = "./img/mobile-dark-theme/price/img2.png";
+const img3 = "./img/mobile-dark-theme/price/img3.png";
+const img4 = "./img/mobile-dark-theme/price/img4.png";
+const img5 = "./img/mobile-dark-theme/price/img5.png";
+const img6 = "./img/mobile-dark-theme/price/img6.png";
 
 const price = [
   {

@@ -32,7 +32,7 @@ export default function BlogDetailsFooterSocialMedia({ blogSlug }) {
         className="blog-details-social-media-block__copy"
         onClick={handleOnClickCopyUrl}
       >
-        <img src="/img/desktop/blog-detail/blog-social-media-3.svg" alt="" />
+        <img src="./img/desktop/blog-detail/blog-social-media-3.svg" alt="" />
       </button>
     </div>
   );
